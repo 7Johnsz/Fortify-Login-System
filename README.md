@@ -59,7 +59,7 @@ And it will be running! ✨
 
 ## 🎡 Exploring archives
 
-<img src="assets/initapp.png" width="500">
+<img src="assets/initapp.png">
 <img src="assets/system2.png">
 
 ## 📝 License
