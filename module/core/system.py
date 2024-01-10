@@ -34,7 +34,7 @@ class _LoginSystem:
         
         if not os.path.isfile(self.database):
             msg = CTkMessagebox(title="Erro",
-                                message="Não foi possível estabelecer uma conexão com o banco de dados, por favor entre em contato com o suporte técnico!",
+                                message="Não foi possível estabelecer uma conexão com o banco de dados",
                                 icon="warning",
                                 corner_radius=20,
                                 sound=self.thread)
