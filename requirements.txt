@@ -1,0 +1,7 @@
+CTkMessagebox==2.5
+customtkinter==5.2.1
+darkdetect==0.8.0
+dotenv==0.0.5
+packaging==23.2
+pillow==10.2.0
+python-dotenv==1.0.0
