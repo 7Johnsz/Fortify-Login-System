@@ -1,8 +1,8 @@
-# Jamal Login System 💨
+# Fortify Login System 💨
 
-<img src="assets/logo.png" alt="jamal" width=300px>
+<img src="assets/logo.png" alt="fortify" width=300px>
 
-> Jamal Login System is a simple and functional login system. Written entirely in Python, using the CustomTkinter framework. Totally OpenSource to contribute to you who are studying the Software Engineering scene. 💫🥳
+> Fortify Login System is a simple and functional login system. Written entirely in Python, using the CustomTkinter framework. Totally OpenSource to contribute to you who are studying the Software Engineering scene. 💫🥳
 
 ### Features!
 
@@ -22,7 +22,7 @@
 
 Before you start, check that you have met the following requirements:
 
-- **Jamal was programmed in `<Python/3.12.0 Version>`** 
+- **Fortify was programmed in `<Python/3.12.0 Version>`** 
 - You have installed the latest version of Python
 
 - All <`.py`> files are documented within their own code.
@@ -38,8 +38,7 @@ $ pip install -r requirements.txt
 --> 100%
 ```
 
-
-## ☕ Using **Jamal**
+## ☕ Using **Fortify**
 
 -Start by initializing the main.py file.
 
