@@ -40,7 +40,7 @@ $ pip install -r requirements.txt
 
 ## ☕ Using **Fortify**
 
--Start by initializing the main.py file.
+- Start by initializing the main.py file.
 
 - This is the main file, the code uses a modular structure,
 separating the logic of the graphical interface into its own class
